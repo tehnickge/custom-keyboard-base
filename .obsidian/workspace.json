@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6849ce3040494564",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e5553b8f9ba3a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9476d3980345d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "клавы/шаблоны/шаблон базы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "шаблон базы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9383bd310122b897",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d80ac66c595e84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b74a1dc12f2e153",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6a7304882d02323a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ae909d4a0c4bfcd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9f13ceb64b86232",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f9b46ff3454470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbfacc5f5232416b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "кейкапы/профили/DSA PHOTO.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для DSA PHOTO"
+            }
+          },
+          {
+            "id": "ecccac5c1031a4f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "кейкапы/профили/DSA PHOTO.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из DSA PHOTO"
+            }
+          },
+          {
+            "id": "bdab4f6480bba6df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4a99fe6307bddc83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "кейкапы/профили/DSA PHOTO.png"
+              },
+              "icon": "lucide-list",
+              "title": "Структура DSA PHOTO"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false
+    }
+  },
+  "active": "e9476d3980345d4a",
+  "lastOpenFiles": [
+    "клавы/клавиатуры/базы/Zoom/Без названия.md",
+    "клавы/шаблоны/шаблон базы.md",
+    "клавы/клавиатуры/базы/Zoom/Zoom65 v3.md",
+    "клавы/клавиатуры/базы/Zoom/Zoom 75.md",
+    "клавы/клавиатуры/базы/Zoom/Pasted image 20250114082149.png",
+    "клавы/бренды/Meletrix.md",
+    "клавы/клавиатуры/базы/zoom65 v3",
+    "клавы/клавиатуры/базы/Без названия.md",
+    "клавы/бренды/NEO.md",
+    "клавы/бренды/KeebIO.md",
+    "клавы/клавиатуры/базы/NEO/NEO ERGO.md",
+    "клавы/шаблоны/Обзор клавиатуры.md",
+    "заказы/моддинг wooting/Без названия.md",
+    "Pasted image 20250114081651.png",
+    "заказы/моддинг wooting/Pasted image 20241120175912.png",
+    "клавы/среды настройки/via/via.md",
+    "Pasted image 20241120175932.png",
+    "заказы/моддинг wooting",
+    "заказы",
+    "клавы/форм-факторы клавиатур/68%.md",
+    "клавы/форм-факторы клавиатур/60%.png",
+    "клавы/форм-факторы клавиатур/75%.png",
+    "клавы/форм-факторы клавиатур/60%.md",
+    "клавы/форм-факторы клавиатур/75%.md",
+    "клавы/форм-факторы клавиатур/68%.png",
+    "клавы/свитчи/свитчи/gateron/Jade.md",
+    "клавы/свитчи/свитчи/HMX/Pasted image 20241104163313.png",
+    "клавы/свитчи/свитчи/HMX/Pasted image 20241104155429.png",
+    "клавы/свитчи/свитчи/HMX/Hyacinth V2.md",
+    "клавы/свитчи/свитчи/HMX/Pasted image 20241104155416.png",
+    "клавы/свитчи/свитчи/HMX/Pink V2 Linear.md",
+    "клавы/свитчи/свитчи/invyr/holy panda.md",
+    "клавы/свитчи/свитчи/Prevail/Epsilon V2 Orange.md",
+    "клавы/свитчи/свитчи/Prevail/Nebula V2 Purple.md",
+    "клавы/клавиатуры/готовые мои/iris/Iris.md",
+    "клавы/клавиатуры/готовые мои/dactyl manuform 5x6/dactyl manuform 5x6.md",
+    "клавы/клавиатуры/готовые/ergohaven/velvet v3/velvet v3.md",
+    "клавы/клавиатуры/базы/Vortex/Vortex Model M SSK KIT.md",
+    "клавы/свитчи/свитчи/akko/V3 pro Piano.md",
+    "клавы/свитчи/свитчи/HMX",
+    "клавы/свитчи/свитчи/HMK",
+    "клавы/клавиатуры/готовые/ergohaven/velvet v3",
+    "клавы/клавиатуры/готовые/ergohaven",
+    "клавы/клавиатуры/готовые мои/Vortex Model M SSK custom",
+    "клавы/клавиатуры/готовые мои/NEO ERGO CUSTOM",
+    "клавы/клавиатуры/базы/Vortex",
+    "Без названия.canvas"
+  ]
+}
