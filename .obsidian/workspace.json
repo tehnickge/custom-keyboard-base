@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5553b8f9ba3a5f",
+        "id": "46e28fc9f43eb3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "e9476d3980345d4a",
+            "id": "9aa3222fb7577370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "клавы/шаблоны/шаблон базы.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "шаблон базы"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -163,19 +159,27 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "e9476d3980345d4a",
+  "active": "4b74a1dc12f2e153",
   "lastOpenFiles": [
-    "клавы/клавиатуры/базы/Zoom/Без названия.md",
+    "Без названия.canvas",
+    "клавы/клавиатуры/базы/Meletrix/Zoom65 v3.md",
+    "клавы/клавиатуры/базы/QWERTYKEYS/NEO ERGO.md",
+    "клавы/стабилизаторы/виды стабилизаторов/plate-mount.md",
+    "клавы/стабилизаторы/виды стабилизаторов/pcb-mount.md",
+    "клавы/стабилизаторы/стабилизаторы",
+    "клавы/стабилизаторы/виды стабилизаторов",
+    "клавы/стабилизаторы",
+    "клавы/клавиатуры/базы/QWERTYKEYS/Pasted image 20250114085702.png",
+    "клавы/бренды/QWERTYKEYS.md",
+    "клавы/клавиатуры/базы/Meletrix/Zoom 75.md",
     "клавы/шаблоны/шаблон базы.md",
-    "клавы/клавиатуры/базы/Zoom/Zoom65 v3.md",
-    "клавы/клавиатуры/базы/Zoom/Zoom 75.md",
-    "клавы/клавиатуры/базы/Zoom/Pasted image 20250114082149.png",
+    "клавы/клавиатуры/базы/Zoom/Без названия.md",
+    "клавы/клавиатуры/базы/Meletrix/Pasted image 20250114082149.png",
     "клавы/бренды/Meletrix.md",
     "клавы/клавиатуры/базы/zoom65 v3",
     "клавы/клавиатуры/базы/Без названия.md",
     "клавы/бренды/NEO.md",
     "клавы/бренды/KeebIO.md",
-    "клавы/клавиатуры/базы/NEO/NEO ERGO.md",
     "клавы/шаблоны/Обзор клавиатуры.md",
     "заказы/моддинг wooting/Без названия.md",
     "Pasted image 20250114081651.png",
@@ -194,23 +198,14 @@
     "клавы/свитчи/свитчи/HMX/Pasted image 20241104163313.png",
     "клавы/свитчи/свитчи/HMX/Pasted image 20241104155429.png",
     "клавы/свитчи/свитчи/HMX/Hyacinth V2.md",
-    "клавы/свитчи/свитчи/HMX/Pasted image 20241104155416.png",
     "клавы/свитчи/свитчи/HMX/Pink V2 Linear.md",
     "клавы/свитчи/свитчи/invyr/holy panda.md",
     "клавы/свитчи/свитчи/Prevail/Epsilon V2 Orange.md",
     "клавы/свитчи/свитчи/Prevail/Nebula V2 Purple.md",
     "клавы/клавиатуры/готовые мои/iris/Iris.md",
-    "клавы/клавиатуры/готовые мои/dactyl manuform 5x6/dactyl manuform 5x6.md",
-    "клавы/клавиатуры/готовые/ergohaven/velvet v3/velvet v3.md",
-    "клавы/клавиатуры/базы/Vortex/Vortex Model M SSK KIT.md",
-    "клавы/свитчи/свитчи/akko/V3 pro Piano.md",
     "клавы/свитчи/свитчи/HMX",
     "клавы/свитчи/свитчи/HMK",
     "клавы/клавиатуры/готовые/ergohaven/velvet v3",
-    "клавы/клавиатуры/готовые/ergohaven",
-    "клавы/клавиатуры/готовые мои/Vortex Model M SSK custom",
-    "клавы/клавиатуры/готовые мои/NEO ERGO CUSTOM",
-    "клавы/клавиатуры/базы/Vortex",
-    "Без названия.canvas"
+    "клавы/клавиатуры/готовые/ergohaven"
   ]
 }
